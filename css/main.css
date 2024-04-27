@@ -558,7 +558,7 @@ header .top-bar {
 }
 .intro-social li {
 	display: inline-block;
-	margin: 0 20px;
+	margin: 0 8px;
 	padding: 0;
 }
 .intro-social li a, .intro-social li a:visited {
@@ -593,7 +593,7 @@ header .top-bar {
 		font-size: 1.3rem;
 	}
 	.intro-social {
-		font-size: 2.5rem;
+		font-size: 3.4rem;
 	}
 	.intro-social li {
 		margin: 0 10px;
@@ -622,7 +622,7 @@ header .top-bar {
 		display: none !important;
 	}
 	.intro-social {
-		font-size: 2.4rem;
+		font-size: 3.4rem;
 	}
 }
 
@@ -1481,14 +1481,14 @@ footer .social {
 }
 footer .footer-social {
 	display: inline-block;
-	font-size: 2.1rem;
+	font-size: 3.0rem;
 	margin: 0;
 	padding: 0;
 	position: relative;
 }
 footer .footer-social li {
 	display: inline-block;
-	margin: 0 12px;
+	margin: 0 8px;
 	padding: 0;
 }
 footer .footer-social li a {
