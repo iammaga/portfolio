@@ -354,6 +354,11 @@ a img {
 	width: 33.33333%;
 }
 
+.col-four,
+.col-1 {
+	width: 100%;
+}
+
 .col-five {
 	width: 41.66667%;
 }
